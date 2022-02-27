@@ -9,16 +9,13 @@ int main(void){
     if (b>a)
     {
         /* code */
-        printf("B is Bigger than A");
+        printf("B is Bigger than A \n");
+  
+    }
 
-    
-    // {
-    //    else (a<b)
-    //     /* code */
-
-    //     printf("A is bigger \n");
-    // }
-    
+    else{
+        // else block has to be away from If, with it's block
+        printf("Sorry \m");
     }
 
     return 0;
