@@ -15,7 +15,7 @@ int main(void){
 
     else{
         // else block has to be away from If, with it's block
-        printf("Sorry \m");
+        printf("Sorry \n");
     }
 
     return 0;
